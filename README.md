@@ -1,32 +1,13 @@
-### Hi there 👋 I am Rocco!
+### Hi, I'm Rocco 👋
 
-<!--
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=RoccoA97)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=RoccoA97&hide=Jupyter Notebook,TeX,java,html&theme=tokyonight" alt="Drawing" style="height: 150px">
-**RoccoA97/RoccoA97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FPGA & digital electronics engineer at **SLAC National Accelerator Laboratory**.
+Previously a CERN Research Fellow building FPGA-based DAQ for the **CMS experiment**, where I pioneered the **Level-1 Trigger Data Scouting** system.
+PhD in Physics (University of Padua), carried out as a CERN Doctoral Student.
 
-Here are some ideas to get you started:
+**What I work on**
+- High-throughput FPGA-based applications (VHDL, Verilog, SystemVerilog)
+- Embedded software for FPGA SoCs
+- ML inference on FPGAs
+- Detector firmware: development, bring-up and operation in large experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-
-## 💻 Some stats
-
-<details open>
- <summary> <b>My Github Stats</b>: </summary>
-<br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=RoccoA97&show_icons=true&theme=tokyonight&line_height=27" alt="Drawing" style="height: 150px">
-</p>
-
-</details>
+[LinkedIn](https://www.linkedin.com/in/rocco-ardino-8948281b5) · [Google Scholar](https://scholar.google.com/citations?user=Hxmu3LYAAAAJ) · [INSPIRE](https://inspirehep.net/authors/2546598) · [ORCID](https://orcid.org/0000-0001-8348-2962)
